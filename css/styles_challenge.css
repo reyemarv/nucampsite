@@ -27,7 +27,7 @@ a, a:hover {
 .jumbotron {
     padding: 30px;
     margin: 0;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
+    background-image: linear-gradient(to right, #186280, #131f62, #591062);
     color: white;
 }
 
@@ -38,7 +38,7 @@ a, a:hover {
 }
 
 .navbar {
-    background-color: #901CAD
+    background-color: #186280
 }
 
 .tab-content {
@@ -48,9 +48,10 @@ a, a:hover {
 }
 
 .carousel-caption {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(244, 237, 237, 0.5);
+    color: black
 }
 
 .carousel {
-    border: solid #5637DD;
+    border: solid #186280;
 }
